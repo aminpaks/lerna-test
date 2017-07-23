@@ -1,0 +1,8 @@
+{
+  "name": "useless",
+  "version": "1.0.0",
+  "description": "This is useful",
+  "main": "index.js",
+  "author": "Amin Paks <amin.pakseresht@hotmail.com>",
+  "license": "MIT"
+}
