@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "useless-test": "^0.0.1"
+    "useless-test": "^0.0.3"
   }
 }
