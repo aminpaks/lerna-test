@@ -1,7 +1,8 @@
 {
   "name": "useless-test",
-  "version": "0.0.3",
-  "description": "This is useful",
+  "private": true,
+  "version": "0.0.5",
+  "description": "This is NOT useful",
   "main": "index.js",
   "author": "Amin Paks <amin.pakseresht@hotmail.com>",
   "license": "MIT"

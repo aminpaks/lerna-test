@@ -1,6 +1,6 @@
 {
   "name": "second-useless",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "private": true,
   "description": "Test package",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "useless-test": "^0.0.3"
+    "useless-test": "^0.0.5"
   }
 }
